@@ -1,0 +1,41 @@
+= Laporan Pemeliharaan Infrastruktur Teknologi Informasi
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+== Waktu, Lokasi dan Nama Petugas Pemeliharaan
+
+== Perangkat Yang Dipelihara
+
+== Tahapan Kegiatan Pemeliharaan yang Dilakukan
+
+== Hasil Pemeliharaan Perangkat Teknologi Informasi
+
+== Kesimpulan dan Rekomendasi Pemeliharaan
+
+== Foto Bukti Pemeliharaan
+
+== Referensi ke Rencana Pemeliharaan Yang Telah Disusun
+
+== Lembar Persetujuan
